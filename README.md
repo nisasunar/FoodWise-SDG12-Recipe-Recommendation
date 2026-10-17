@@ -6,7 +6,7 @@ This repository contains the first assignment: a project proposal, exploratory d
 
 ## Start here
 
-- Read report/FoodWise_Assignment1_Proposal.pdf for the two-page concept note.
+- Read report/Sunar_Tan_Acikel_Ozyakup_Group5.pdf for the two-page concept note.
 - Open notebooks/FoodWise_Assignment1.ipynb for the executed EDA and experiments.
 - The notebook includes saved outputs and figures. Extract the whole project before running it so the data and source modules remain available.
 
