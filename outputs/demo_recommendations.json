@@ -1,0 +1,95 @@
+[
+  {
+    "recipe_id":"378525",
+    "name":"Simple Crock Pot Chicken Cacciatore",
+    "all_ingredient_types_available":true,
+    "score":0.8792179462,
+    "tfidf_cosine":0.7986965769,
+    "ingredient_coverage":1.0,
+    "urgent_coverage":1.0,
+    "urgent_ingredients_used":[
+      "chicken pieces",
+      "onion",
+      "tomatoes"
+    ],
+    "missing_ingredients":[
+
+    ],
+    "source_servings":8.0
+  },
+  {
+    "recipe_id":"247755",
+    "name":"Chef Flower's Turkish Cypriot Taro Casserole - Kibrisli  Kolokas",
+    "all_ingredient_types_available":false,
+    "score":0.5342935857,
+    "tfidf_cosine":0.5016004205,
+    "ingredient_coverage":0.5555555556,
+    "urgent_coverage":0.6666666667,
+    "urgent_ingredients_used":[
+      "chicken pieces",
+      "onion"
+    ],
+    "missing_ingredients":[
+      "chicken breasts",
+      "cilantro",
+      "diced tomatoes",
+      "tomato paste"
+    ],
+    "source_servings":4.0
+  },
+  {
+    "recipe_id":"380873",
+    "name":"Cream Style Porcupine Balls",
+    "all_ingredient_types_available":false,
+    "score":0.519935082,
+    "tfidf_cosine":0.4985029144,
+    "ingredient_coverage":0.625,
+    "urgent_coverage":0.3333333333,
+    "urgent_ingredients_used":[
+      "onion"
+    ],
+    "missing_ingredients":[
+      "ground beef",
+      "milk",
+      "worcestershire sauce"
+    ],
+    "source_servings":4.0
+  },
+  {
+    "recipe_id":"60625",
+    "name":"Chicken and Apricots",
+    "all_ingredient_types_available":false,
+    "score":0.4882776834,
+    "tfidf_cosine":0.5082405835,
+    "ingredient_coverage":0.5,
+    "urgent_coverage":0.3333333333,
+    "urgent_ingredients_used":[
+      "chicken pieces"
+    ],
+    "missing_ingredients":[
+      "cumin",
+      "fresh parsley",
+      "soy sauce"
+    ],
+    "source_servings":6.0
+  },
+  {
+    "recipe_id":"34263",
+    "name":"Spicy Fish Balls in Tomato Sauce",
+    "all_ingredient_types_available":false,
+    "score":0.4872613432,
+    "tfidf_cosine":0.3884911275,
+    "ingredient_coverage":0.625,
+    "urgent_coverage":0.6666666667,
+    "urgent_ingredients_used":[
+      "onion",
+      "tomatoes"
+    ],
+    "missing_ingredients":[
+      "eggs",
+      "lemon",
+      "red wine"
+    ],
+    "source_servings":4.0
+  }
+]

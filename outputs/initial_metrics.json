@@ -1,0 +1,26 @@
+[
+  {
+    "model": "Ingredient overlap",
+    "queries": 200,
+    "recovery_at_1": 0.95,
+    "recovery_at_5": 1.0,
+    "recovery_at_10": 1.0,
+    "mean_reciprocal_rank": 0.9741666666666667
+  },
+  {
+    "model": "TF-IDF cosine",
+    "queries": 200,
+    "recovery_at_1": 0.92,
+    "recovery_at_5": 0.99,
+    "recovery_at_10": 0.995,
+    "mean_reciprocal_rank": 0.9535714285714286
+  },
+  {
+    "model": "LSA 64 dimensions",
+    "queries": 200,
+    "recovery_at_1": 0.455,
+    "recovery_at_5": 0.69,
+    "recovery_at_10": 0.79,
+    "mean_reciprocal_rank": 0.5719499940392313
+  }
+]

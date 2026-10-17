@@ -1,0 +1,600 @@
+{"model": "Ingredient overlap", "source_recipe_id": "95693", "query": ["button mushrooms", "garlic", "olive oil", "onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "95693", "query": ["button mushrooms", "garlic", "olive oil", "onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "95693", "query": ["button mushrooms", "garlic", "olive oil", "onion"], "rank": 17}
+{"model": "Ingredient overlap", "source_recipe_id": "425190", "query": ["butter", "eggs", "flour tortilla", "green onion", "salsa"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "425190", "query": ["butter", "eggs", "flour tortilla", "green onion", "salsa"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "425190", "query": ["butter", "eggs", "flour tortilla", "green onion", "salsa"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "222722", "query": ["chicken breasts", "low-fat cheddar cheese", "onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "222722", "query": ["chicken breasts", "low-fat cheddar cheese", "onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "222722", "query": ["chicken breasts", "low-fat cheddar cheese", "onion"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "265920", "query": ["carrot", "cayenne pepper", "onions", "parsley", "tomato sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "265920", "query": ["carrot", "cayenne pepper", "onions", "parsley", "tomato sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "265920", "query": ["carrot", "cayenne pepper", "onions", "parsley", "tomato sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "412841", "query": ["cayenne pepper", "ginger", "limes", "olive oil", "scallions", "shiitake mushrooms"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "412841", "query": ["cayenne pepper", "ginger", "limes", "olive oil", "scallions", "shiitake mushrooms"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "412841", "query": ["cayenne pepper", "ginger", "limes", "olive oil", "scallions", "shiitake mushrooms"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "477099", "query": ["broccoli", "chicken", "lemons"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "477099", "query": ["broccoli", "chicken", "lemons"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "477099", "query": ["broccoli", "chicken", "lemons"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "380873", "query": ["black pepper", "ground beef", "milk", "water", "worcestershire sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "380873", "query": ["black pepper", "ground beef", "milk", "water", "worcestershire sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "380873", "query": ["black pepper", "ground beef", "milk", "water", "worcestershire sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "4411", "query": ["cider vinegar", "green onions", "water", "yogurt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "4411", "query": ["cider vinegar", "green onions", "water", "yogurt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "4411", "query": ["cider vinegar", "green onions", "water", "yogurt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "416203", "query": ["butter", "flour", "sugar", "vanilla extract"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "416203", "query": ["butter", "flour", "sugar", "vanilla extract"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "416203", "query": ["butter", "flour", "sugar", "vanilla extract"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "388670", "query": ["flour", "frozen corn", "mayonnaise", "mild green chilies", "milk", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "388670", "query": ["flour", "frozen corn", "mayonnaise", "mild green chilies", "milk", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "388670", "query": ["flour", "frozen corn", "mayonnaise", "mild green chilies", "milk", "salt"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "28356", "query": ["coriander powder", "garlic cloves", "green peas", "tomatoes", "yogurt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "28356", "query": ["coriander powder", "garlic cloves", "green peas", "tomatoes", "yogurt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "28356", "query": ["coriander powder", "garlic cloves", "green peas", "tomatoes", "yogurt"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "39568", "query": ["chicken broth", "cremini mushrooms", "dried thyme", "dry red wine", "flour", "tomato paste"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "39568", "query": ["chicken broth", "cremini mushrooms", "dried thyme", "dry red wine", "flour", "tomato paste"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "39568", "query": ["chicken broth", "cremini mushrooms", "dried thyme", "dry red wine", "flour", "tomato paste"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "425231", "query": ["baking soda", "egg", "flour", "golden raisin", "peanut butter", "rolled oats"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "425231", "query": ["baking soda", "egg", "flour", "golden raisin", "peanut butter", "rolled oats"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "425231", "query": ["baking soda", "egg", "flour", "golden raisin", "peanut butter", "rolled oats"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "371383", "query": ["carrots", "cauliflower", "cumin", "fresh ginger", "ketchup", "paprika"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "371383", "query": ["carrots", "cauliflower", "cumin", "fresh ginger", "ketchup", "paprika"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "371383", "query": ["carrots", "cauliflower", "cumin", "fresh ginger", "ketchup", "paprika"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "209825", "query": ["baking powder", "cinnamon", "vanilla extract", "water", "whole wheat flour"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "209825", "query": ["baking powder", "cinnamon", "vanilla extract", "water", "whole wheat flour"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "209825", "query": ["baking powder", "cinnamon", "vanilla extract", "water", "whole wheat flour"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "296032", "query": ["egg beaters egg substitute", "lean bacon", "olive oil", "shredded hash brown potatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "296032", "query": ["egg beaters egg substitute", "lean bacon", "olive oil", "shredded hash brown potatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "296032", "query": ["egg beaters egg substitute", "lean bacon", "olive oil", "shredded hash brown potatoes"], "rank": 37}
+{"model": "Ingredient overlap", "source_recipe_id": "156389", "query": ["cayenne pepper", "dry mustard", "fresh lemon juice", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "156389", "query": ["cayenne pepper", "dry mustard", "fresh lemon juice", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "156389", "query": ["cayenne pepper", "dry mustard", "fresh lemon juice", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "25492", "query": ["apples", "baking soda", "eggs", "plain flour", "salt", "walnuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "25492", "query": ["apples", "baking soda", "eggs", "plain flour", "salt", "walnuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "25492", "query": ["apples", "baking soda", "eggs", "plain flour", "salt", "walnuts"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "9803", "query": ["dried thyme leaves", "eggs", "fresh parsley", "garlic cloves", "onion", "worcestershire sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "9803", "query": ["dried thyme leaves", "eggs", "fresh parsley", "garlic cloves", "onion", "worcestershire sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "9803", "query": ["dried thyme leaves", "eggs", "fresh parsley", "garlic cloves", "onion", "worcestershire sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "440991", "query": ["bacon bits", "ground black pepper", "wasabi"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "440991", "query": ["bacon bits", "ground black pepper", "wasabi"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "440991", "query": ["bacon bits", "ground black pepper", "wasabi"], "rank": 42}
+{"model": "Ingredient overlap", "source_recipe_id": "99836", "query": ["chili sauce", "garlic powder", "pepper", "worcestershire sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "99836", "query": ["chili sauce", "garlic powder", "pepper", "worcestershire sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "99836", "query": ["chili sauce", "garlic powder", "pepper", "worcestershire sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "351247", "query": ["cheddar cheese", "eggs", "hamburger meat", "milk", "onion", "pepper"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "351247", "query": ["cheddar cheese", "eggs", "hamburger meat", "milk", "onion", "pepper"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "351247", "query": ["cheddar cheese", "eggs", "hamburger meat", "milk", "onion", "pepper"], "rank": 9}
+{"model": "Ingredient overlap", "source_recipe_id": "179941", "query": ["chopped tomato", "monterey jack cheese", "onion", "pitted black olives"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "179941", "query": ["chopped tomato", "monterey jack cheese", "onion", "pitted black olives"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "179941", "query": ["chopped tomato", "monterey jack cheese", "onion", "pitted black olives"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "16697", "query": ["butter", "red pepper flakes", "salt", "sugar", "tarragon leaves", "thyme"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "16697", "query": ["butter", "red pepper flakes", "salt", "sugar", "tarragon leaves", "thyme"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "16697", "query": ["butter", "red pepper flakes", "salt", "sugar", "tarragon leaves", "thyme"], "rank": 15}
+{"model": "Ingredient overlap", "source_recipe_id": "353009", "query": ["black pepper", "chorizo sausage", "extra virgin olive oil", "fresh basil", "salt", "wine vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "353009", "query": ["black pepper", "chorizo sausage", "extra virgin olive oil", "fresh basil", "salt", "wine vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "353009", "query": ["black pepper", "chorizo sausage", "extra virgin olive oil", "fresh basil", "salt", "wine vinegar"], "rank": 7}
+{"model": "Ingredient overlap", "source_recipe_id": "309333", "query": ["all-purpose flour", "baking powder", "egg", "salt", "vanilla"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "309333", "query": ["all-purpose flour", "baking powder", "egg", "salt", "vanilla"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "309333", "query": ["all-purpose flour", "baking powder", "egg", "salt", "vanilla"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "437140", "query": ["dark chocolate", "granulated sugar", "heavy cream", "raspberries", "unflavored gelatin", "vanilla extract"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "437140", "query": ["dark chocolate", "granulated sugar", "heavy cream", "raspberries", "unflavored gelatin", "vanilla extract"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "437140", "query": ["dark chocolate", "granulated sugar", "heavy cream", "raspberries", "unflavored gelatin", "vanilla extract"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "108510", "query": ["celery", "pepper", "red kidney beans", "red sweet peppers", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "108510", "query": ["celery", "pepper", "red kidney beans", "red sweet peppers", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "108510", "query": ["celery", "pepper", "red kidney beans", "red sweet peppers", "salt"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "153944", "query": ["eggs", "olive oil", "sesame seeds", "soy sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "153944", "query": ["eggs", "olive oil", "sesame seeds", "soy sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "153944", "query": ["eggs", "olive oil", "sesame seeds", "soy sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "127296", "query": ["black pepper", "flour", "frozen whole kernel corn", "instant chicken bouillon granules", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "127296", "query": ["black pepper", "flour", "frozen whole kernel corn", "instant chicken bouillon granules", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "127296", "query": ["black pepper", "flour", "frozen whole kernel corn", "instant chicken bouillon granules", "water"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "526800", "query": ["eggs", "flour", "paprika", "salt", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "526800", "query": ["eggs", "flour", "paprika", "salt", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "526800", "query": ["eggs", "flour", "paprika", "salt", "sugar"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "182654", "query": ["dried sage", "olive oil", "sage leaves", "whole tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "182654", "query": ["dried sage", "olive oil", "sage leaves", "whole tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "182654", "query": ["dried sage", "olive oil", "sage leaves", "whole tomatoes"], "rank": 44}
+{"model": "Ingredient overlap", "source_recipe_id": "478734", "query": ["caraway seed", "carrots", "pepper", "salt", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "478734", "query": ["caraway seed", "carrots", "pepper", "salt", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "478734", "query": ["caraway seed", "carrots", "pepper", "salt", "sugar"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "458212", "query": ["albacore tuna", "celery", "flat leaf parsley", "vegan mayonnaise"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "458212", "query": ["albacore tuna", "celery", "flat leaf parsley", "vegan mayonnaise"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "458212", "query": ["albacore tuna", "celery", "flat leaf parsley", "vegan mayonnaise"], "rank": 17}
+{"model": "Ingredient overlap", "source_recipe_id": "215247", "query": ["cream-style cottage cheese", "diced tomatoes", "fresh basil leaves", "garlic clove", "onion", "reduced-fat ricotta cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "215247", "query": ["cream-style cottage cheese", "diced tomatoes", "fresh basil leaves", "garlic clove", "onion", "reduced-fat ricotta cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "215247", "query": ["cream-style cottage cheese", "diced tomatoes", "fresh basil leaves", "garlic clove", "onion", "reduced-fat ricotta cheese"], "rank": 33}
+{"model": "Ingredient overlap", "source_recipe_id": "258186", "query": ["cherry tomatoes", "fresh parsley", "garlic powder"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "258186", "query": ["cherry tomatoes", "fresh parsley", "garlic powder"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "258186", "query": ["cherry tomatoes", "fresh parsley", "garlic powder"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "159178", "query": ["all-purpose flour", "fresh parsley", "fresh spinach", "lemon juice", "milk", "watercress"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "159178", "query": ["all-purpose flour", "fresh parsley", "fresh spinach", "lemon juice", "milk", "watercress"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "159178", "query": ["all-purpose flour", "fresh parsley", "fresh spinach", "lemon juice", "milk", "watercress"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "164409", "query": ["all-purpose flour", "ground cinnamon", "light brown sugar", "old fashioned oats", "salt", "toasted wheat germ"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "164409", "query": ["all-purpose flour", "ground cinnamon", "light brown sugar", "old fashioned oats", "salt", "toasted wheat germ"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "164409", "query": ["all-purpose flour", "ground cinnamon", "light brown sugar", "old fashioned oats", "salt", "toasted wheat germ"], "rank": 13}
+{"model": "Ingredient overlap", "source_recipe_id": "356382", "query": ["extra virgin olive oil", "lobsters", "red pepper flakes", "scallions"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "356382", "query": ["extra virgin olive oil", "lobsters", "red pepper flakes", "scallions"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "356382", "query": ["extra virgin olive oil", "lobsters", "red pepper flakes", "scallions"], "rank": 16}
+{"model": "Ingredient overlap", "source_recipe_id": "126059", "query": ["eggs", "onion", "salt", "sugar", "zucchini"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "126059", "query": ["eggs", "onion", "salt", "sugar", "zucchini"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "126059", "query": ["eggs", "onion", "salt", "sugar", "zucchini"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "490844", "query": ["butter", "country-style dijon mustard", "dry crushed red pepper", "fresh ground black pepper", "salt", "shallot"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "490844", "query": ["butter", "country-style dijon mustard", "dry crushed red pepper", "fresh ground black pepper", "salt", "shallot"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "490844", "query": ["butter", "country-style dijon mustard", "dry crushed red pepper", "fresh ground black pepper", "salt", "shallot"], "rank": 8}
+{"model": "Ingredient overlap", "source_recipe_id": "463913", "query": ["all-purpose flour", "cinnamon", "golden delicious apples", "honey", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "463913", "query": ["all-purpose flour", "cinnamon", "golden delicious apples", "honey", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "463913", "query": ["all-purpose flour", "cinnamon", "golden delicious apples", "honey", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "319538", "query": ["beer", "cornstarch", "flour"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "319538", "query": ["beer", "cornstarch", "flour"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "319538", "query": ["beer", "cornstarch", "flour"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "375433", "query": ["bell pepper", "celery", "clams", "onion", "warm water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "375433", "query": ["bell pepper", "celery", "clams", "onion", "warm water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "375433", "query": ["bell pepper", "celery", "clams", "onion", "warm water"], "rank": 7}
+{"model": "Ingredient overlap", "source_recipe_id": "247049", "query": ["garlic cloves", "ground beef", "roma tomatoes", "salt", "zucchini"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "247049", "query": ["garlic cloves", "ground beef", "roma tomatoes", "salt", "zucchini"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "247049", "query": ["garlic cloves", "ground beef", "roma tomatoes", "salt", "zucchini"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "192125", "query": ["green onion", "lemon juice", "maple syrup", "olive oil", "rice vinegar", "soy sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "192125", "query": ["green onion", "lemon juice", "maple syrup", "olive oil", "rice vinegar", "soy sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "192125", "query": ["green onion", "lemon juice", "maple syrup", "olive oil", "rice vinegar", "soy sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "457499", "query": ["baking soda", "cinnamon", "olive oil", "salt", "sugar", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "457499", "query": ["baking soda", "cinnamon", "olive oil", "salt", "sugar", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "457499", "query": ["baking soda", "cinnamon", "olive oil", "salt", "sugar", "water"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "415070", "query": ["butter", "fresh thyme", "garlic cloves", "mushroom", "sage", "white wine"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "415070", "query": ["butter", "fresh thyme", "garlic cloves", "mushroom", "sage", "white wine"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "415070", "query": ["butter", "fresh thyme", "garlic cloves", "mushroom", "sage", "white wine"], "rank": 10}
+{"model": "Ingredient overlap", "source_recipe_id": "527141", "query": ["brown sugar", "garlic powder", "green bell pepper", "onion", "red bell pepper", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "527141", "query": ["brown sugar", "garlic powder", "green bell pepper", "onion", "red bell pepper", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "527141", "query": ["brown sugar", "garlic powder", "green bell pepper", "onion", "red bell pepper", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "504042", "query": ["beef flank steak", "brown sugar", "fresh ginger", "garlic cloves", "ground cinnamon", "lime peel"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "504042", "query": ["beef flank steak", "brown sugar", "fresh ginger", "garlic cloves", "ground cinnamon", "lime peel"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "504042", "query": ["beef flank steak", "brown sugar", "fresh ginger", "garlic cloves", "ground cinnamon", "lime peel"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "17970", "query": ["black beans", "cheese", "eggs", "salsa"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "17970", "query": ["black beans", "cheese", "eggs", "salsa"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "17970", "query": ["black beans", "cheese", "eggs", "salsa"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "539105", "query": ["eggplant", "parmesan cheese", "pecorino romano cheese", "salt", "tomato paste", "ziti pasta"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "539105", "query": ["eggplant", "parmesan cheese", "pecorino romano cheese", "salt", "tomato paste", "ziti pasta"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "539105", "query": ["eggplant", "parmesan cheese", "pecorino romano cheese", "salt", "tomato paste", "ziti pasta"], "rank": 35}
+{"model": "Ingredient overlap", "source_recipe_id": "511721", "query": ["chili powder", "cream cheese", "diced tomatoes with mild green chilies", "flour tortillas", "garlic powder", "ground cumin"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "511721", "query": ["chili powder", "cream cheese", "diced tomatoes with mild green chilies", "flour tortillas", "garlic powder", "ground cumin"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "511721", "query": ["chili powder", "cream cheese", "diced tomatoes with mild green chilies", "flour tortillas", "garlic powder", "ground cumin"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "224604", "query": ["dijon mustard", "fresh chives", "fresh parsley", "olive oil", "pear", "streaky bacon"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "224604", "query": ["dijon mustard", "fresh chives", "fresh parsley", "olive oil", "pear", "streaky bacon"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "224604", "query": ["dijon mustard", "fresh chives", "fresh parsley", "olive oil", "pear", "streaky bacon"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "506023", "query": ["cayenne pepper", "cornstarch", "eggs", "fine sea salt", "fresh ground black pepper", "lemon pepper"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "506023", "query": ["cayenne pepper", "cornstarch", "eggs", "fine sea salt", "fresh ground black pepper", "lemon pepper"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "506023", "query": ["cayenne pepper", "cornstarch", "eggs", "fine sea salt", "fresh ground black pepper", "lemon pepper"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "96143", "query": ["bacon bits", "cherry tomatoes", "lemon juice", "onion", "seasoning salt", "swiss cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "96143", "query": ["bacon bits", "cherry tomatoes", "lemon juice", "onion", "seasoning salt", "swiss cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "96143", "query": ["bacon bits", "cherry tomatoes", "lemon juice", "onion", "seasoning salt", "swiss cheese"], "rank": 20}
+{"model": "Ingredient overlap", "source_recipe_id": "528778", "query": ["black pepper", "onion powder", "parsley", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "528778", "query": ["black pepper", "onion powder", "parsley", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "528778", "query": ["black pepper", "onion powder", "parsley", "sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "198119", "query": ["cinnamon", "light butter", "nonfat milk", "reduced-fat baking mix"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "198119", "query": ["cinnamon", "light butter", "nonfat milk", "reduced-fat baking mix"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "198119", "query": ["cinnamon", "light butter", "nonfat milk", "reduced-fat baking mix"], "rank": 15}
+{"model": "Ingredient overlap", "source_recipe_id": "8276", "query": ["kahlua", "light corn syrup", "margarine", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "8276", "query": ["kahlua", "light corn syrup", "margarine", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "8276", "query": ["kahlua", "light corn syrup", "margarine", "sugar"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "116975", "query": ["barbecue sauce", "fresh garlic", "green bell pepper", "lean ground beef", "minute rice", "seasoning salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "116975", "query": ["barbecue sauce", "fresh garlic", "green bell pepper", "lean ground beef", "minute rice", "seasoning salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "116975", "query": ["barbecue sauce", "fresh garlic", "green bell pepper", "lean ground beef", "minute rice", "seasoning salt"], "rank": 18}
+{"model": "Ingredient overlap", "source_recipe_id": "423378", "query": ["all-purpose flour", "butter", "eggs", "lemon peel", "milk"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "423378", "query": ["all-purpose flour", "butter", "eggs", "lemon peel", "milk"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "423378", "query": ["all-purpose flour", "butter", "eggs", "lemon peel", "milk"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "163670", "query": ["baking powder", "ground cinnamon", "ground ginger", "powdered sugar", "salt", "spaghetti squash"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "163670", "query": ["baking powder", "ground cinnamon", "ground ginger", "powdered sugar", "salt", "spaghetti squash"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "163670", "query": ["baking powder", "ground cinnamon", "ground ginger", "powdered sugar", "salt", "spaghetti squash"], "rank": 7}
+{"model": "Ingredient overlap", "source_recipe_id": "392284", "query": ["butter", "cinnamon", "orzo pasta", "parsley", "tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "392284", "query": ["butter", "cinnamon", "orzo pasta", "parsley", "tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "392284", "query": ["butter", "cinnamon", "orzo pasta", "parsley", "tomatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "276759", "query": ["bow tie pasta", "butter", "cheddar cheese", "frozen baby peas", "garlic"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "276759", "query": ["bow tie pasta", "butter", "cheddar cheese", "frozen baby peas", "garlic"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "276759", "query": ["bow tie pasta", "butter", "cheddar cheese", "frozen baby peas", "garlic"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "298903", "query": ["chicken broth", "egg", "ground allspice", "ground cinnamon", "ground nutmeg", "prosciutto"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "298903", "query": ["chicken broth", "egg", "ground allspice", "ground cinnamon", "ground nutmeg", "prosciutto"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "298903", "query": ["chicken broth", "egg", "ground allspice", "ground cinnamon", "ground nutmeg", "prosciutto"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "134580", "query": ["butter", "cashews", "eggs", "vanilla"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "134580", "query": ["butter", "cashews", "eggs", "vanilla"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "134580", "query": ["butter", "cashews", "eggs", "vanilla"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "535637", "query": ["beer", "cornstarch", "onion powder", "rosemary", "seasoning salt", "yukon gold potatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "535637", "query": ["beer", "cornstarch", "onion powder", "rosemary", "seasoning salt", "yukon gold potatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "535637", "query": ["beer", "cornstarch", "onion powder", "rosemary", "seasoning salt", "yukon gold potatoes"], "rank": 7}
+{"model": "Ingredient overlap", "source_recipe_id": "189552", "query": ["cheddar cheese", "ground beef", "pepper"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "189552", "query": ["cheddar cheese", "ground beef", "pepper"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "189552", "query": ["cheddar cheese", "ground beef", "pepper"], "rank": 5}
+{"model": "Ingredient overlap", "source_recipe_id": "253922", "query": ["dried thyme", "dry white wine", "leek", "lemon juice", "lemon zest", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "253922", "query": ["dried thyme", "dry white wine", "leek", "lemon juice", "lemon zest", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "253922", "query": ["dried thyme", "dry white wine", "leek", "lemon juice", "lemon zest", "salt"], "rank": 10}
+{"model": "Ingredient overlap", "source_recipe_id": "92232", "query": ["baking soda", "cinnamon", "flour", "ginger", "honey"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "92232", "query": ["baking soda", "cinnamon", "flour", "ginger", "honey"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "92232", "query": ["baking soda", "cinnamon", "flour", "ginger", "honey"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "74229", "query": ["broccoli florets", "cornstarch", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "74229", "query": ["broccoli florets", "cornstarch", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "74229", "query": ["broccoli florets", "cornstarch", "sugar"], "rank": 26}
+{"model": "Ingredient overlap", "source_recipe_id": "508025", "query": ["butter", "lemon juice", "lobster tails", "parsley", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "508025", "query": ["butter", "lemon juice", "lobster tails", "parsley", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "508025", "query": ["butter", "lemon juice", "lobster tails", "parsley", "salt"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "176224", "query": ["frozen spinach", "onion", "oregano"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "176224", "query": ["frozen spinach", "onion", "oregano"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "176224", "query": ["frozen spinach", "onion", "oregano"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "241175", "query": ["all-purpose flour", "baking soda", "buttermilk", "eggs", "mild cheddar cheese", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "241175", "query": ["all-purpose flour", "baking soda", "buttermilk", "eggs", "mild cheddar cheese", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "241175", "query": ["all-purpose flour", "baking soda", "buttermilk", "eggs", "mild cheddar cheese", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "57486", "query": ["fat salt pork", "granulated sugar", "potatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "57486", "query": ["fat salt pork", "granulated sugar", "potatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "57486", "query": ["fat salt pork", "granulated sugar", "potatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "68149", "query": ["boneless skinless chicken breasts", "green bell pepper", "limes", "red onion", "rice", "roma tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "68149", "query": ["boneless skinless chicken breasts", "green bell pepper", "limes", "red onion", "rice", "roma tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "68149", "query": ["boneless skinless chicken breasts", "green bell pepper", "limes", "red onion", "rice", "roma tomatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "216430", "query": ["chili powder", "ground cloves", "ketchup", "lean ground beef", "mayonnaise", "tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "216430", "query": ["chili powder", "ground cloves", "ketchup", "lean ground beef", "mayonnaise", "tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "216430", "query": ["chili powder", "ground cloves", "ketchup", "lean ground beef", "mayonnaise", "tomatoes"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "43592", "query": ["celery", "mushrooms", "onions", "soy sauce", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "43592", "query": ["celery", "mushrooms", "onions", "soy sauce", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "43592", "query": ["celery", "mushrooms", "onions", "soy sauce", "water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "506451", "query": ["all-purpose flour", "baking soda", "eggs", "light brown sugar", "old fashioned oats", "salt"], "rank": 3}
+{"model": "TF-IDF cosine", "source_recipe_id": "506451", "query": ["all-purpose flour", "baking soda", "eggs", "light brown sugar", "old fashioned oats", "salt"], "rank": 3}
+{"model": "LSA 64 dimensions", "source_recipe_id": "506451", "query": ["all-purpose flour", "baking soda", "eggs", "light brown sugar", "old fashioned oats", "salt"], "rank": 11}
+{"model": "Ingredient overlap", "source_recipe_id": "314495", "query": ["brown sugar", "butter", "cayenne pepper", "honey", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "314495", "query": ["brown sugar", "butter", "cayenne pepper", "honey", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "314495", "query": ["brown sugar", "butter", "cayenne pepper", "honey", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "238443", "query": ["cumin", "fresh ginger", "green beans", "olive oil", "paprika", "soy sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "238443", "query": ["cumin", "fresh ginger", "green beans", "olive oil", "paprika", "soy sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "238443", "query": ["cumin", "fresh ginger", "green beans", "olive oil", "paprika", "soy sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "123302", "query": ["paprika", "roasting chicken", "salt", "thyme"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "123302", "query": ["paprika", "roasting chicken", "salt", "thyme"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "123302", "query": ["paprika", "roasting chicken", "salt", "thyme"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "527113", "query": ["bosc pears", "mozzarella cheese", "parsley", "prosciutto"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "527113", "query": ["bosc pears", "mozzarella cheese", "parsley", "prosciutto"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "527113", "query": ["bosc pears", "mozzarella cheese", "parsley", "prosciutto"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "446788", "query": ["chicken", "cottage cheese", "egg", "oregano", "pepper", "spinach"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "446788", "query": ["chicken", "cottage cheese", "egg", "oregano", "pepper", "spinach"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "446788", "query": ["chicken", "cottage cheese", "egg", "oregano", "pepper", "spinach"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "535933", "query": ["basil leaves", "cod", "dry white wine", "garlic cloves", "pepper", "sea scallops"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "535933", "query": ["basil leaves", "cod", "dry white wine", "garlic cloves", "pepper", "sea scallops"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "535933", "query": ["basil leaves", "cod", "dry white wine", "garlic cloves", "pepper", "sea scallops"], "rank": 29}
+{"model": "Ingredient overlap", "source_recipe_id": "493276", "query": ["dark rum", "firm bananas", "ground cinnamon", "ice cream", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "493276", "query": ["dark rum", "firm bananas", "ground cinnamon", "ice cream", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "493276", "query": ["dark rum", "firm bananas", "ground cinnamon", "ice cream", "sugar"], "rank": 23}
+{"model": "Ingredient overlap", "source_recipe_id": "500289", "query": ["garlic clove", "olive oil", "ricotta cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "500289", "query": ["garlic clove", "olive oil", "ricotta cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "500289", "query": ["garlic clove", "olive oil", "ricotta cheese"], "rank": 9}
+{"model": "Ingredient overlap", "source_recipe_id": "511158", "query": ["black pepper", "crushed red pepper flakes", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "511158", "query": ["black pepper", "crushed red pepper flakes", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "511158", "query": ["black pepper", "crushed red pepper flakes", "salt"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "138044", "query": ["black beans", "boneless skinless chicken breast halves", "minute rice", "thick & chunky salsa"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "138044", "query": ["black beans", "boneless skinless chicken breast halves", "minute rice", "thick & chunky salsa"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "138044", "query": ["black beans", "boneless skinless chicken breast halves", "minute rice", "thick & chunky salsa"], "rank": 204}
+{"model": "Ingredient overlap", "source_recipe_id": "173738", "query": ["ground black pepper", "kosher salt", "unsalted butter"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "173738", "query": ["ground black pepper", "kosher salt", "unsalted butter"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "173738", "query": ["ground black pepper", "kosher salt", "unsalted butter"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "374170", "query": ["all-purpose flour", "salt", "unsalted butter", "white pepper"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "374170", "query": ["all-purpose flour", "salt", "unsalted butter", "white pepper"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "374170", "query": ["all-purpose flour", "salt", "unsalted butter", "white pepper"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "127388", "query": ["black pepper", "boneless pork chops", "chili powder", "cilantro", "kosher salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "127388", "query": ["black pepper", "boneless pork chops", "chili powder", "cilantro", "kosher salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "127388", "query": ["black pepper", "boneless pork chops", "chili powder", "cilantro", "kosher salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "332252", "query": ["celery", "dijon mustard", "hard-boiled egg", "mayonnaise", "onion", "yellow mustard"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "332252", "query": ["celery", "dijon mustard", "hard-boiled egg", "mayonnaise", "onion", "yellow mustard"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "332252", "query": ["celery", "dijon mustard", "hard-boiled egg", "mayonnaise", "onion", "yellow mustard"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "115564", "query": ["apple", "dry white wine", "onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "115564", "query": ["apple", "dry white wine", "onion"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "115564", "query": ["apple", "dry white wine", "onion"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "125055", "query": ["cinnamon", "eggs", "ginger", "margarine", "salt", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "125055", "query": ["cinnamon", "eggs", "ginger", "margarine", "salt", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "125055", "query": ["cinnamon", "eggs", "ginger", "margarine", "salt", "sugar"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "24562", "query": ["cider vinegar", "crushed red pepper flakes", "garlic cloves", "mayonnaise", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "24562", "query": ["cider vinegar", "crushed red pepper flakes", "garlic cloves", "mayonnaise", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "24562", "query": ["cider vinegar", "crushed red pepper flakes", "garlic cloves", "mayonnaise", "sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "471844", "query": ["butter", "dry white wine", "fresh lemon zest", "lemon juice", "olive oil", "onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "471844", "query": ["butter", "dry white wine", "fresh lemon zest", "lemon juice", "olive oil", "onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "471844", "query": ["butter", "dry white wine", "fresh lemon zest", "lemon juice", "olive oil", "onion"], "rank": 45}
+{"model": "Ingredient overlap", "source_recipe_id": "351851", "query": ["french baguette", "of fresh mint", "olive oil"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "351851", "query": ["french baguette", "of fresh mint", "olive oil"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "351851", "query": ["french baguette", "of fresh mint", "olive oil"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "167777", "query": ["all-purpose white flour", "baking soda", "boiling water", "buttermilk", "egg", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "167777", "query": ["all-purpose white flour", "baking soda", "boiling water", "buttermilk", "egg", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "167777", "query": ["all-purpose white flour", "baking soda", "boiling water", "buttermilk", "egg", "sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "441560", "query": ["chicken broth", "green bell pepper", "onion", "pepper", "pimentos"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "441560", "query": ["chicken broth", "green bell pepper", "onion", "pepper", "pimentos"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "441560", "query": ["chicken broth", "green bell pepper", "onion", "pepper", "pimentos"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "452913", "query": ["bell peppers", "butter", "fresh tomatoes", "green onion", "mushrooms", "sour cream"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "452913", "query": ["bell peppers", "butter", "fresh tomatoes", "green onion", "mushrooms", "sour cream"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "452913", "query": ["bell peppers", "butter", "fresh tomatoes", "green onion", "mushrooms", "sour cream"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "512842", "query": ["cooked rice", "fresh ground black pepper", "garlic", "pine nuts", "squid", "tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "512842", "query": ["cooked rice", "fresh ground black pepper", "garlic", "pine nuts", "squid", "tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "512842", "query": ["cooked rice", "fresh ground black pepper", "garlic", "pine nuts", "squid", "tomatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "431186", "query": ["baking soda", "brown sugar", "dark molasses", "navy beans", "salt", "yellow onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "431186", "query": ["baking soda", "brown sugar", "dark molasses", "navy beans", "salt", "yellow onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "431186", "query": ["baking soda", "brown sugar", "dark molasses", "navy beans", "salt", "yellow onion"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "18296", "query": ["canned pumpkin", "cinnamon", "skim milk"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "18296", "query": ["canned pumpkin", "cinnamon", "skim milk"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "18296", "query": ["canned pumpkin", "cinnamon", "skim milk"], "rank": 34}
+{"model": "Ingredient overlap", "source_recipe_id": "379358", "query": ["broth", "fresh ground pepper", "garlic cloves", "onions", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "379358", "query": ["broth", "fresh ground pepper", "garlic cloves", "onions", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "379358", "query": ["broth", "fresh ground pepper", "garlic cloves", "onions", "water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "293962", "query": ["egg", "flour", "raisins", "sugar", "vanilla extract", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "293962", "query": ["egg", "flour", "raisins", "sugar", "vanilla extract", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "293962", "query": ["egg", "flour", "raisins", "sugar", "vanilla extract", "water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "97745", "query": ["black pepper", "coconut cream", "fresh thyme leaves", "ground allspice", "long grain rice", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "97745", "query": ["black pepper", "coconut cream", "fresh thyme leaves", "ground allspice", "long grain rice", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "97745", "query": ["black pepper", "coconut cream", "fresh thyme leaves", "ground allspice", "long grain rice", "water"], "rank": 9}
+{"model": "Ingredient overlap", "source_recipe_id": "24398", "query": ["flat leaf parsley", "great northern bean", "parmesan cheese", "red bell pepper", "red onion", "romano cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "24398", "query": ["flat leaf parsley", "great northern bean", "parmesan cheese", "red bell pepper", "red onion", "romano cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "24398", "query": ["flat leaf parsley", "great northern bean", "parmesan cheese", "red bell pepper", "red onion", "romano cheese"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "164628", "query": ["garlic powder", "green pepper", "ground beef", "scallions", "soy sauce"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "164628", "query": ["garlic powder", "green pepper", "ground beef", "scallions", "soy sauce"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "164628", "query": ["garlic powder", "green pepper", "ground beef", "scallions", "soy sauce"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "256797", "query": ["butter", "chicken breasts", "flour", "sour cream", "tabasco sauce", "tarragon"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "256797", "query": ["butter", "chicken breasts", "flour", "sour cream", "tabasco sauce", "tarragon"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "256797", "query": ["butter", "chicken breasts", "flour", "sour cream", "tabasco sauce", "tarragon"], "rank": 5}
+{"model": "Ingredient overlap", "source_recipe_id": "336114", "query": ["garlic", "marsala wine", "onion", "onion powder"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "336114", "query": ["garlic", "marsala wine", "onion", "onion powder"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "336114", "query": ["garlic", "marsala wine", "onion", "onion powder"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "500581", "query": ["baking powder", "baking soda", "egg", "ground cinnamon", "navel orange", "whole wheat flour"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "500581", "query": ["baking powder", "baking soda", "egg", "ground cinnamon", "navel orange", "whole wheat flour"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "500581", "query": ["baking powder", "baking soda", "egg", "ground cinnamon", "navel orange", "whole wheat flour"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "424901", "query": ["cheese", "extra virgin olive oil", "milk", "onion", "salt", "zucchini"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "424901", "query": ["cheese", "extra virgin olive oil", "milk", "onion", "salt", "zucchini"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "424901", "query": ["cheese", "extra virgin olive oil", "milk", "onion", "salt", "zucchini"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "65088", "query": ["cheese", "chicken broth", "tortilla"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "65088", "query": ["cheese", "chicken broth", "tortilla"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "65088", "query": ["cheese", "chicken broth", "tortilla"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "20412", "query": ["bacon bits", "celery", "green onion", "lettuce", "mushrooms", "parmesan cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "20412", "query": ["bacon bits", "celery", "green onion", "lettuce", "mushrooms", "parmesan cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "20412", "query": ["bacon bits", "celery", "green onion", "lettuce", "mushrooms", "parmesan cheese"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "335542", "query": ["brown sugar", "flour", "ground cinnamon", "ground cloves", "ground nutmeg", "whole wheat flour"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "335542", "query": ["brown sugar", "flour", "ground cinnamon", "ground cloves", "ground nutmeg", "whole wheat flour"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "335542", "query": ["brown sugar", "flour", "ground cinnamon", "ground cloves", "ground nutmeg", "whole wheat flour"], "rank": 11}
+{"model": "Ingredient overlap", "source_recipe_id": "195029", "query": ["extra virgin olive oil", "garlic cloves", "italian sausage", "mozzarella cheese", "rigatoni pasta", "romano cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "195029", "query": ["extra virgin olive oil", "garlic cloves", "italian sausage", "mozzarella cheese", "rigatoni pasta", "romano cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "195029", "query": ["extra virgin olive oil", "garlic cloves", "italian sausage", "mozzarella cheese", "rigatoni pasta", "romano cheese"], "rank": 15}
+{"model": "Ingredient overlap", "source_recipe_id": "116678", "query": ["dried oregano", "mushroom", "olive oil", "onion", "parmesan cheese", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "116678", "query": ["dried oregano", "mushroom", "olive oil", "onion", "parmesan cheese", "salt"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "116678", "query": ["dried oregano", "mushroom", "olive oil", "onion", "parmesan cheese", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "380017", "query": ["chives", "coconut oil", "curry powder", "lean beef", "onions", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "380017", "query": ["chives", "coconut oil", "curry powder", "lean beef", "onions", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "380017", "query": ["chives", "coconut oil", "curry powder", "lean beef", "onions", "salt"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "188059", "query": ["coarse grain mustard", "fresh dill", "red onions", "sour cream"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "188059", "query": ["coarse grain mustard", "fresh dill", "red onions", "sour cream"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "188059", "query": ["coarse grain mustard", "fresh dill", "red onions", "sour cream"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "224054", "query": ["cheddar cheese", "onion", "salt"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "224054", "query": ["cheddar cheese", "onion", "salt"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "224054", "query": ["cheddar cheese", "onion", "salt"], "rank": 13}
+{"model": "Ingredient overlap", "source_recipe_id": "501237", "query": ["brown sugar", "lean bacon", "onion", "prepared mustard", "vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "501237", "query": ["brown sugar", "lean bacon", "onion", "prepared mustard", "vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "501237", "query": ["brown sugar", "lean bacon", "onion", "prepared mustard", "vinegar"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "461302", "query": ["burrito-size flour tortillas", "butter", "chicken breasts", "green bell pepper", "seasoning salt", "sweet onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "461302", "query": ["burrito-size flour tortillas", "butter", "chicken breasts", "green bell pepper", "seasoning salt", "sweet onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "461302", "query": ["burrito-size flour tortillas", "butter", "chicken breasts", "green bell pepper", "seasoning salt", "sweet onion"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "288285", "query": ["gingerroot", "lychees", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "288285", "query": ["gingerroot", "lychees", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "288285", "query": ["gingerroot", "lychees", "water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "417493", "query": ["dry buttermilk", "egg", "margarine", "salt", "water", "white flour"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "417493", "query": ["dry buttermilk", "egg", "margarine", "salt", "water", "white flour"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "417493", "query": ["dry buttermilk", "egg", "margarine", "salt", "water", "white flour"], "rank": 16}
+{"model": "Ingredient overlap", "source_recipe_id": "310486", "query": ["ground beef", "ground pepper", "sausage"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "310486", "query": ["ground beef", "ground pepper", "sausage"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "310486", "query": ["ground beef", "ground pepper", "sausage"], "rank": 30}
+{"model": "Ingredient overlap", "source_recipe_id": "192428", "query": ["boneless skinless chicken breasts", "butter", "chicken broth", "fresh ground black pepper", "fresh thyme leaves", "heavy cream"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "192428", "query": ["boneless skinless chicken breasts", "butter", "chicken broth", "fresh ground black pepper", "fresh thyme leaves", "heavy cream"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "192428", "query": ["boneless skinless chicken breasts", "butter", "chicken broth", "fresh ground black pepper", "fresh thyme leaves", "heavy cream"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "136283", "query": ["butter", "fresh basil leaves", "garlic cloves", "tomato sauce", "tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "136283", "query": ["butter", "fresh basil leaves", "garlic cloves", "tomato sauce", "tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "136283", "query": ["butter", "fresh basil leaves", "garlic cloves", "tomato sauce", "tomatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "145828", "query": ["brewed coffee", "butter", "graham cracker crumbs", "heavy whipping cream"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "145828", "query": ["brewed coffee", "butter", "graham cracker crumbs", "heavy whipping cream"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "145828", "query": ["brewed coffee", "butter", "graham cracker crumbs", "heavy whipping cream"], "rank": 72}
+{"model": "Ingredient overlap", "source_recipe_id": "525347", "query": ["boneless skinless chicken breasts", "dry white wine", "leeks", "low sodium chicken broth", "salt", "thyme leaves"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "525347", "query": ["boneless skinless chicken breasts", "dry white wine", "leeks", "low sodium chicken broth", "salt", "thyme leaves"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "525347", "query": ["boneless skinless chicken breasts", "dry white wine", "leeks", "low sodium chicken broth", "salt", "thyme leaves"], "rank": 21}
+{"model": "Ingredient overlap", "source_recipe_id": "220339", "query": ["canola oil", "cornstarch", "gingerroot", "instant brown rice", "peanut butter", "rice vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "220339", "query": ["canola oil", "cornstarch", "gingerroot", "instant brown rice", "peanut butter", "rice vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "220339", "query": ["canola oil", "cornstarch", "gingerroot", "instant brown rice", "peanut butter", "rice vinegar"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "398239", "query": ["brown sugar", "butter", "eggs", "vanilla"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "398239", "query": ["brown sugar", "butter", "eggs", "vanilla"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "398239", "query": ["brown sugar", "butter", "eggs", "vanilla"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "219870", "query": ["bananas", "bittersweet chocolate", "confectioners' sugar", "unsalted butter"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "219870", "query": ["bananas", "bittersweet chocolate", "confectioners' sugar", "unsalted butter"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "219870", "query": ["bananas", "bittersweet chocolate", "confectioners' sugar", "unsalted butter"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "322684", "query": ["cayenne pepper", "eggs", "mayonnaise", "paprika", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "322684", "query": ["cayenne pepper", "eggs", "mayonnaise", "paprika", "salt"], "rank": 3}
+{"model": "LSA 64 dimensions", "source_recipe_id": "322684", "query": ["cayenne pepper", "eggs", "mayonnaise", "paprika", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "470417", "query": ["carrots", "chicken broth", "great northern beans", "parmesan cheese", "quick-cooking rice"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "470417", "query": ["carrots", "chicken broth", "great northern beans", "parmesan cheese", "quick-cooking rice"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "470417", "query": ["carrots", "chicken broth", "great northern beans", "parmesan cheese", "quick-cooking rice"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "24341", "query": ["chicken broth", "couscous", "fresh ground pepper", "salt", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "24341", "query": ["chicken broth", "couscous", "fresh ground pepper", "salt", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "24341", "query": ["chicken broth", "couscous", "fresh ground pepper", "salt", "water"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "505650", "query": ["eggs", "fresh cilantro", "ketchup", "lemon", "onion", "unsalted peanuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "505650", "query": ["eggs", "fresh cilantro", "ketchup", "lemon", "onion", "unsalted peanuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "505650", "query": ["eggs", "fresh cilantro", "ketchup", "lemon", "onion", "unsalted peanuts"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "120561", "query": ["egg", "frozen spinach", "mozzarella cheese", "spaghetti"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "120561", "query": ["egg", "frozen spinach", "mozzarella cheese", "spaghetti"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "120561", "query": ["egg", "frozen spinach", "mozzarella cheese", "spaghetti"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "120723", "query": ["butter", "cream cheese", "eggs", "raspberries", "raspberry sauce", "sweetened condensed milk"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "120723", "query": ["butter", "cream cheese", "eggs", "raspberries", "raspberry sauce", "sweetened condensed milk"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "120723", "query": ["butter", "cream cheese", "eggs", "raspberries", "raspberry sauce", "sweetened condensed milk"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "135583", "query": ["capers", "dry white wine", "olive oil", "parmesan cheese", "pitted black olives", "sun-dried tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "135583", "query": ["capers", "dry white wine", "olive oil", "parmesan cheese", "pitted black olives", "sun-dried tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "135583", "query": ["capers", "dry white wine", "olive oil", "parmesan cheese", "pitted black olives", "sun-dried tomatoes"], "rank": 78}
+{"model": "Ingredient overlap", "source_recipe_id": "446777", "query": ["fresh raspberry", "honey", "low-fat cream cheese", "salt", "vanilla extract"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "446777", "query": ["fresh raspberry", "honey", "low-fat cream cheese", "salt", "vanilla extract"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "446777", "query": ["fresh raspberry", "honey", "low-fat cream cheese", "salt", "vanilla extract"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "389144", "query": ["bell pepper", "dried thyme leaves", "onion", "salt", "tomato sauce", "tomatoes with garlic"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "389144", "query": ["bell pepper", "dried thyme leaves", "onion", "salt", "tomato sauce", "tomatoes with garlic"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "389144", "query": ["bell pepper", "dried thyme leaves", "onion", "salt", "tomato sauce", "tomatoes with garlic"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "126554", "query": ["brown sugar", "butter", "egg", "orange zest", "vanilla"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "126554", "query": ["brown sugar", "butter", "egg", "orange zest", "vanilla"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "126554", "query": ["brown sugar", "butter", "egg", "orange zest", "vanilla"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "273971", "query": ["artichoke hearts", "asiago cheese", "flour", "parmesan cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "273971", "query": ["artichoke hearts", "asiago cheese", "flour", "parmesan cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "273971", "query": ["artichoke hearts", "asiago cheese", "flour", "parmesan cheese"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "194725", "query": ["celery ribs", "green chilies", "onions", "pepper", "potatoes", "tomatoes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "194725", "query": ["celery ribs", "green chilies", "onions", "pepper", "potatoes", "tomatoes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "194725", "query": ["celery ribs", "green chilies", "onions", "pepper", "potatoes", "tomatoes"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "435649", "query": ["coriander leaves", "feta cheese", "lime", "red chile", "tuna in water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "435649", "query": ["coriander leaves", "feta cheese", "lime", "red chile", "tuna in water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "435649", "query": ["coriander leaves", "feta cheese", "lime", "red chile", "tuna in water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "268661", "query": ["garlic cloves", "soy sauce", "vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "268661", "query": ["garlic cloves", "soy sauce", "vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "268661", "query": ["garlic cloves", "soy sauce", "vinegar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "115013", "query": ["dry mustard", "eggs", "flour", "margarine", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "115013", "query": ["dry mustard", "eggs", "flour", "margarine", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "115013", "query": ["dry mustard", "eggs", "flour", "margarine", "salt"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "392953", "query": ["baguette", "basil leaves", "butter lettuce leaves", "fresh ground pepper", "tuna in olive oil"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "392953", "query": ["baguette", "basil leaves", "butter lettuce leaves", "fresh ground pepper", "tuna in olive oil"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "392953", "query": ["baguette", "basil leaves", "butter lettuce leaves", "fresh ground pepper", "tuna in olive oil"], "rank": 22}
+{"model": "Ingredient overlap", "source_recipe_id": "332417", "query": ["black beans", "cooked rice", "fresh cilantro", "green chili sauce", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "332417", "query": ["black beans", "cooked rice", "fresh cilantro", "green chili sauce", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "332417", "query": ["black beans", "cooked rice", "fresh cilantro", "green chili sauce", "salt"], "rank": 23}
+{"model": "Ingredient overlap", "source_recipe_id": "100084", "query": ["graham cracker pie crust", "milk", "vanilla flavor instant pudding and pie filling mix"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "100084", "query": ["graham cracker pie crust", "milk", "vanilla flavor instant pudding and pie filling mix"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "100084", "query": ["graham cracker pie crust", "milk", "vanilla flavor instant pudding and pie filling mix"], "rank": 19}
+{"model": "Ingredient overlap", "source_recipe_id": "26810", "query": ["bacon bits", "light mayonnaise", "parsley flakes", "potatoes", "vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "26810", "query": ["bacon bits", "light mayonnaise", "parsley flakes", "potatoes", "vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "26810", "query": ["bacon bits", "light mayonnaise", "parsley flakes", "potatoes", "vinegar"], "rank": 7}
+{"model": "Ingredient overlap", "source_recipe_id": "283358", "query": ["honey", "kidney beans", "peanut butter"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "283358", "query": ["honey", "kidney beans", "peanut butter"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "283358", "query": ["honey", "kidney beans", "peanut butter"], "rank": 62}
+{"model": "Ingredient overlap", "source_recipe_id": "44894", "query": ["1% low-fat milk", "black pepper", "chicken broth", "flour", "frozen chopped spinach", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "44894", "query": ["1% low-fat milk", "black pepper", "chicken broth", "flour", "frozen chopped spinach", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "44894", "query": ["1% low-fat milk", "black pepper", "chicken broth", "flour", "frozen chopped spinach", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "238439", "query": ["baking powder", "eggs", "pecans", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "238439", "query": ["baking powder", "eggs", "pecans", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "238439", "query": ["baking powder", "eggs", "pecans", "sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "230458", "query": ["frozen chopped spinach", "garlic powder", "olive oil", "pepper", "salt", "wonton wrappers"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "230458", "query": ["frozen chopped spinach", "garlic powder", "olive oil", "pepper", "salt", "wonton wrappers"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "230458", "query": ["frozen chopped spinach", "garlic powder", "olive oil", "pepper", "salt", "wonton wrappers"], "rank": 29}
+{"model": "Ingredient overlap", "source_recipe_id": "86092", "query": ["bay leaves", "cinnamon", "cloves", "dried coriander", "peppercorns", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "86092", "query": ["bay leaves", "cinnamon", "cloves", "dried coriander", "peppercorns", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "86092", "query": ["bay leaves", "cinnamon", "cloves", "dried coriander", "peppercorns", "salt"], "rank": 44}
+{"model": "Ingredient overlap", "source_recipe_id": "359800", "query": ["brown sugar", "butter", "flour"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "359800", "query": ["brown sugar", "butter", "flour"], "rank": 21}
+{"model": "LSA 64 dimensions", "source_recipe_id": "359800", "query": ["brown sugar", "butter", "flour"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "64530", "query": ["boneless pork loin roast", "dijon mustard", "fresh rosemary"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "64530", "query": ["boneless pork loin roast", "dijon mustard", "fresh rosemary"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "64530", "query": ["boneless pork loin roast", "dijon mustard", "fresh rosemary"], "rank": 15}
+{"model": "Ingredient overlap", "source_recipe_id": "106980", "query": ["applesauce", "baking powder", "ground cloves", "ground ginger", "molasses", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "106980", "query": ["applesauce", "baking powder", "ground cloves", "ground ginger", "molasses", "sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "106980", "query": ["applesauce", "baking powder", "ground cloves", "ground ginger", "molasses", "sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "540115", "query": ["cayenne pepper", "celery", "ground black pepper", "leeks", "low sodium chicken broth", "sliced water chestnuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "540115", "query": ["cayenne pepper", "celery", "ground black pepper", "leeks", "low sodium chicken broth", "sliced water chestnuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "540115", "query": ["cayenne pepper", "celery", "ground black pepper", "leeks", "low sodium chicken broth", "sliced water chestnuts"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "271060", "query": ["butter", "granulated sugar", "maraschino cherry", "maraschino cherry juice", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "271060", "query": ["butter", "granulated sugar", "maraschino cherry", "maraschino cherry juice", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "271060", "query": ["butter", "granulated sugar", "maraschino cherry", "maraschino cherry juice", "salt"], "rank": 12}
+{"model": "Ingredient overlap", "source_recipe_id": "214340", "query": ["cranberry sauce", "olive oil", "prosciutto"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "214340", "query": ["cranberry sauce", "olive oil", "prosciutto"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "214340", "query": ["cranberry sauce", "olive oil", "prosciutto"], "rank": 201}
+{"model": "Ingredient overlap", "source_recipe_id": "533137", "query": ["black pepper", "chives", "heavy cream", "olive oil", "shallot", "unsalted butter"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "533137", "query": ["black pepper", "chives", "heavy cream", "olive oil", "shallot", "unsalted butter"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "533137", "query": ["black pepper", "chives", "heavy cream", "olive oil", "shallot", "unsalted butter"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "328558", "query": ["extra virgin olive oil", "garlic", "ground black pepper", "habanero pepper", "olive oil", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "328558", "query": ["extra virgin olive oil", "garlic", "ground black pepper", "habanero pepper", "olive oil", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "328558", "query": ["extra virgin olive oil", "garlic", "ground black pepper", "habanero pepper", "olive oil", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "108804", "query": ["albacore tuna in water", "fresh basil", "garlic", "great northern beans", "orange sweet bell pepper", "yellow sweet bell peppers"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "108804", "query": ["albacore tuna in water", "fresh basil", "garlic", "great northern beans", "orange sweet bell pepper", "yellow sweet bell peppers"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "108804", "query": ["albacore tuna in water", "fresh basil", "garlic", "great northern beans", "orange sweet bell pepper", "yellow sweet bell peppers"], "rank": 39}
+{"model": "Ingredient overlap", "source_recipe_id": "397957", "query": ["garlic powder", "ground beef", "head of cabbage"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "397957", "query": ["garlic powder", "ground beef", "head of cabbage"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "397957", "query": ["garlic powder", "ground beef", "head of cabbage"], "rank": 3}
+{"model": "Ingredient overlap", "source_recipe_id": "460640", "query": ["alfredo sauce", "dry pasta", "feta", "fresh spinach", "vinegar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "460640", "query": ["alfredo sauce", "dry pasta", "feta", "fresh spinach", "vinegar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "460640", "query": ["alfredo sauce", "dry pasta", "feta", "fresh spinach", "vinegar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "429361", "query": ["crushed tomatoes", "fresh ginger", "light brown sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "429361", "query": ["crushed tomatoes", "fresh ginger", "light brown sugar"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "429361", "query": ["crushed tomatoes", "fresh ginger", "light brown sugar"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "372468", "query": ["garlic cloves", "onions", "potatoes", "spinach", "vegetable bouillon cubes"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "372468", "query": ["garlic cloves", "onions", "potatoes", "spinach", "vegetable bouillon cubes"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "372468", "query": ["garlic cloves", "onions", "potatoes", "spinach", "vegetable bouillon cubes"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "319380", "query": ["cayenne pepper", "chili powder", "garlic powder", "ground black pepper", "paprika"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "319380", "query": ["cayenne pepper", "chili powder", "garlic powder", "ground black pepper", "paprika"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "319380", "query": ["cayenne pepper", "chili powder", "garlic powder", "ground black pepper", "paprika"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "363920", "query": ["chicken", "milk", "olive oil", "onion", "red pepper flakes", "velveeta cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "363920", "query": ["chicken", "milk", "olive oil", "onion", "red pepper flakes", "velveeta cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "363920", "query": ["chicken", "milk", "olive oil", "onion", "red pepper flakes", "velveeta cheese"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "111094", "query": ["basil", "butter", "lemon pepper seasoning", "roasting chickens"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "111094", "query": ["basil", "butter", "lemon pepper seasoning", "roasting chickens"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "111094", "query": ["basil", "butter", "lemon pepper seasoning", "roasting chickens"], "rank": 17}
+{"model": "Ingredient overlap", "source_recipe_id": "246474", "query": ["feta cheese", "fresh ground black pepper", "fresh thyme", "garlic", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "246474", "query": ["feta cheese", "fresh ground black pepper", "fresh thyme", "garlic", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "246474", "query": ["feta cheese", "fresh ground black pepper", "fresh thyme", "garlic", "salt"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "244618", "query": ["bay leaf", "dry sherry", "edamame", "mushrooms", "olive oil", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "244618", "query": ["bay leaf", "dry sherry", "edamame", "mushrooms", "olive oil", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "244618", "query": ["bay leaf", "dry sherry", "edamame", "mushrooms", "olive oil", "salt"], "rank": 75}
+{"model": "Ingredient overlap", "source_recipe_id": "425021", "query": ["cucumber", "rice vinegar", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "425021", "query": ["cucumber", "rice vinegar", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "425021", "query": ["cucumber", "rice vinegar", "salt"], "rank": 9}
+{"model": "Ingredient overlap", "source_recipe_id": "42881", "query": ["butter", "cinnamon", "flour", "powdered sugar", "salt", "walnuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "42881", "query": ["butter", "cinnamon", "flour", "powdered sugar", "salt", "walnuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "42881", "query": ["butter", "cinnamon", "flour", "powdered sugar", "salt", "walnuts"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "440701", "query": ["carrot", "creme fraiche", "leeks", "pepper", "potato"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "440701", "query": ["carrot", "creme fraiche", "leeks", "pepper", "potato"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "440701", "query": ["carrot", "creme fraiche", "leeks", "pepper", "potato"], "rank": 6}
+{"model": "Ingredient overlap", "source_recipe_id": "26157", "query": ["all-purpose flour", "baking powder", "salt", "shortening", "sugar"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "26157", "query": ["all-purpose flour", "baking powder", "salt", "shortening", "sugar"], "rank": 3}
+{"model": "LSA 64 dimensions", "source_recipe_id": "26157", "query": ["all-purpose flour", "baking powder", "salt", "shortening", "sugar"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "201591", "query": ["ground black pepper", "heavy cream", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "201591", "query": ["ground black pepper", "heavy cream", "salt"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "201591", "query": ["ground black pepper", "heavy cream", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "367004", "query": ["fresh flat-leaf parsley", "garlic cloves", "green onions", "kosher salt", "red wine vinegar", "water"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "367004", "query": ["fresh flat-leaf parsley", "garlic cloves", "green onions", "kosher salt", "red wine vinegar", "water"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "367004", "query": ["fresh flat-leaf parsley", "garlic cloves", "green onions", "kosher salt", "red wine vinegar", "water"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "148507", "query": ["banana", "butter", "cream cheese", "egg", "vanilla extract"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "148507", "query": ["banana", "butter", "cream cheese", "egg", "vanilla extract"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "148507", "query": ["banana", "butter", "cream cheese", "egg", "vanilla extract"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "111769", "query": ["dark raisin", "fresh lemon juice", "ground cinnamon", "prunes", "walnuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "111769", "query": ["dark raisin", "fresh lemon juice", "ground cinnamon", "prunes", "walnuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "111769", "query": ["dark raisin", "fresh lemon juice", "ground cinnamon", "prunes", "walnuts"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "520130", "query": ["ground allspice", "ground cardamom", "ground cinnamon", "ground cloves", "ground pepper"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "520130", "query": ["ground allspice", "ground cardamom", "ground cinnamon", "ground cloves", "ground pepper"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "520130", "query": ["ground allspice", "ground cardamom", "ground cinnamon", "ground cloves", "ground pepper"], "rank": 5}
+{"model": "Ingredient overlap", "source_recipe_id": "9775", "query": ["cooked ham", "milk", "onion"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "9775", "query": ["cooked ham", "milk", "onion"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "9775", "query": ["cooked ham", "milk", "onion"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "184543", "query": ["bacon", "chicken breasts", "cream cheese", "sour cream"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "184543", "query": ["bacon", "chicken breasts", "cream cheese", "sour cream"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "184543", "query": ["bacon", "chicken breasts", "cream cheese", "sour cream"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "216358", "query": ["butter", "buttermilk", "confectioners' sugar", "miniature marshmallows", "pecans"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "216358", "query": ["butter", "buttermilk", "confectioners' sugar", "miniature marshmallows", "pecans"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "216358", "query": ["butter", "buttermilk", "confectioners' sugar", "miniature marshmallows", "pecans"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "296910", "query": ["of fresh mint", "olive oil", "salt", "zucchini"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "296910", "query": ["of fresh mint", "olive oil", "salt", "zucchini"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "296910", "query": ["of fresh mint", "olive oil", "salt", "zucchini"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "323168", "query": ["all-purpose flour", "baking soda", "light brown sugar", "pure vanilla extract", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "323168", "query": ["all-purpose flour", "baking soda", "light brown sugar", "pure vanilla extract", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "323168", "query": ["all-purpose flour", "baking soda", "light brown sugar", "pure vanilla extract", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "32771", "query": ["dried rosemary", "dried sage", "dried thyme", "fresh parsley", "fresh rosemary", "red onions"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "32771", "query": ["dried rosemary", "dried sage", "dried thyme", "fresh parsley", "fresh rosemary", "red onions"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "32771", "query": ["dried rosemary", "dried sage", "dried thyme", "fresh parsley", "fresh rosemary", "red onions"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "433401", "query": ["capers", "flour", "lemon juice", "margarine", "olive oil", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "433401", "query": ["capers", "flour", "lemon juice", "margarine", "olive oil", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "433401", "query": ["capers", "flour", "lemon juice", "margarine", "olive oil", "salt"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "23391", "query": ["capers", "fresh dill", "fresh parsley", "red onions", "salt", "tomatoes"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "23391", "query": ["capers", "fresh dill", "fresh parsley", "red onions", "salt", "tomatoes"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "23391", "query": ["capers", "fresh dill", "fresh parsley", "red onions", "salt", "tomatoes"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "86609", "query": ["barbecue sauce", "cheddar cheese", "egg", "ground beef", "monterey jack cheese", "mushroom"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "86609", "query": ["barbecue sauce", "cheddar cheese", "egg", "ground beef", "monterey jack cheese", "mushroom"], "rank": 2}
+{"model": "LSA 64 dimensions", "source_recipe_id": "86609", "query": ["barbecue sauce", "cheddar cheese", "egg", "ground beef", "monterey jack cheese", "mushroom"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "507179", "query": ["egg", "garlic powder", "ketchup", "lean ground beef", "onion"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "507179", "query": ["egg", "garlic powder", "ketchup", "lean ground beef", "onion"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "507179", "query": ["egg", "garlic powder", "ketchup", "lean ground beef", "onion"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "473759", "query": ["cream cheese", "garlic cloves", "lemon juice", "parmesan cheese"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "473759", "query": ["cream cheese", "garlic cloves", "lemon juice", "parmesan cheese"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "473759", "query": ["cream cheese", "garlic cloves", "lemon juice", "parmesan cheese"], "rank": 1}
+{"model": "Ingredient overlap", "source_recipe_id": "286550", "query": ["extra virgin olive oil", "fresh dill", "lemon wedge", "salmon fillets", "salt"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "286550", "query": ["extra virgin olive oil", "fresh dill", "lemon wedge", "salmon fillets", "salt"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "286550", "query": ["extra virgin olive oil", "fresh dill", "lemon wedge", "salmon fillets", "salt"], "rank": 16}
+{"model": "Ingredient overlap", "source_recipe_id": "121056", "query": ["cheddar cheese", "eggs", "onion"], "rank": 2}
+{"model": "TF-IDF cosine", "source_recipe_id": "121056", "query": ["cheddar cheese", "eggs", "onion"], "rank": 6}
+{"model": "LSA 64 dimensions", "source_recipe_id": "121056", "query": ["cheddar cheese", "eggs", "onion"], "rank": 2}
+{"model": "Ingredient overlap", "source_recipe_id": "85062", "query": ["dried cranberries", "gorgonzola", "walnuts"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "85062", "query": ["dried cranberries", "gorgonzola", "walnuts"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "85062", "query": ["dried cranberries", "gorgonzola", "walnuts"], "rank": 16}
+{"model": "Ingredient overlap", "source_recipe_id": "354847", "query": ["black cardamom pods", "fennel seeds", "green cardamoms", "onion", "red chili powder"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "354847", "query": ["black cardamom pods", "fennel seeds", "green cardamoms", "onion", "red chili powder"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "354847", "query": ["black cardamom pods", "fennel seeds", "green cardamoms", "onion", "red chili powder"], "rank": 4}
+{"model": "Ingredient overlap", "source_recipe_id": "276204", "query": ["boneless skinless chicken breasts", "butter", "miniature bagels", "olive oil", "parmesan cheese", "yellow onions"], "rank": 1}
+{"model": "TF-IDF cosine", "source_recipe_id": "276204", "query": ["boneless skinless chicken breasts", "butter", "miniature bagels", "olive oil", "parmesan cheese", "yellow onions"], "rank": 1}
+{"model": "LSA 64 dimensions", "source_recipe_id": "276204", "query": ["boneless skinless chicken breasts", "butter", "miniature bagels", "olive oil", "parmesan cheese", "yellow onions"], "rank": 2}
